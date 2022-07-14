@@ -1,1 +1,2 @@
-# _salesInsight_powerBI
+# SalesInsights Data Analysis Project 
+
